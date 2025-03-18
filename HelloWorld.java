@@ -1,4 +1,4 @@
-public class well come to NAVSOFT {
+public class WelcomeToNavsoft {
   public static void main(String[] args) {
     while (true) {
       System.out.println("Hello world!");
@@ -10,3 +10,4 @@ public class well come to NAVSOFT {
     }
   }
 }
+
